@@ -15,7 +15,8 @@ wickedElements.define('.todoapp', {
 
   add(value) {
     const li = document.createElement('li');
-    li.innerHTML = `<div class="view">
+    li.innerHTML = `
+    <div class="view">
       <input class="toggle" type="checkbox">
       <label></label>
       <button class="destroy"></button>
