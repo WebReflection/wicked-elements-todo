@@ -4,4 +4,4 @@
 
 The [esm/index.js](esm/index.js) contains the entire logic.
 
-The live demo is @ https://webereflection.github.io/wicked-elements-todo
+The live demo is @ https://webreflection.github.io/wicked-elements-todo/
